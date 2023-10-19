@@ -1,11 +1,10 @@
-<div class="card">
-  <div class="card-header">
-    Quote
+<div style="clear:both" class="card">
+  <div class="card-header back">
+    <a href=""><p style="text-align:center">Back To Top</p></a>
   </div>
   <div class="card-body">
     <blockquote class="blockquote mb-0">
-      <p>A well-known quote, contained in a blockquote element.</p>
-      <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+    <p style="text-align:center">&copy; 2023 DevNikk Deals. All rights reserved.</p>
     </blockquote>
   </div>
 </div>

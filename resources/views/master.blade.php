@@ -39,10 +39,39 @@
 .carousel-text{
   margin-left:500px !important;
 }
-.cart{
-  color:white;
+.trending-wrapper{
+  margin:20px;
 }
-
+.trending-products{
+  float:left;
+  width:20%;
+}
+.trending-image{
+  height:100px;
+}
+.detail-image{
+  height:200px;
+}
+.user{
+  background-color:#f2eaea !important;
+  border:none !important;
+}
+.cart-list-divider{
+  border-bottom:1px solid black;
+  margin-bottom:20px;
+  padding-bottom:20px;
+}
+.cart-product{
+  min-height:1200px;
+}
+.payment-container{
+  margin:10px;
+}
+.back a{
+  text-decoration:none;
+  color:black;
+  font-weight:bold;
+}
   </style>
   
 </html>
