@@ -72,6 +72,24 @@
   color:black;
   font-weight:bold;
 }
+.search{
+  border:1px solid black !important;
+  color:black;
+}
+.search:hover{
+  background-color:whitesmoke;
+  color:black;
+}
+.search:active{
+
+}
   </style>
+  <script>
+    $(document).ready(function(){
+      $('#search').click(function(e){
+        e.preventDefault();
+      })
+    })
+  </script>
   
 </html>
